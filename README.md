@@ -1,1 +1,1 @@
-# my-2048
+# Card Game - DouDiZhu
