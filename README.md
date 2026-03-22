@@ -1,8 +1,7 @@
 # Card Game - DouDiZhu
 (Since I am not particularly skilled at developing web-based games, you may need to install some dependencies to support running this locally before launching it -- Pygame)
 
-(By the way, this project took me 3 days to complete, with 50% of the work assisted by AI)
-Please reply once you have received this email, and kindly take the time to read through the introduction below. Thank you.😀
+Please take the time to read through the introduction below. Thank you.😀
 
 Here are the specific steps:
 1. Open my GitHub project page, click on "Code" -> "Download ZIP," and then unzip the downloaded file.
@@ -60,4 +59,5 @@ Four-of-a-Kind with Two Pairs(四带二对)  — A Bomb accompanied by two arbit
 Rocket (Jokers)(王炸)  — The Big Joker and the Little Joker; can beat any other card combination and is more powerful than a standard Bomb (e.g., SJ BJ; Tip: Save this for a critical moment!)
 
 
-If you encounter any issues, please contact me (or try asking ChatGPT). **murphy.paperking@gmail.com**
+If you encounter any issues, please contact me (or try asking ChatGPT). 
+**murphy.paperking@gmail.com**
