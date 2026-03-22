@@ -17,16 +17,19 @@ Type "python3 -m pip install pygame", and then type "python3 main.py" to launch 
 **If you are not yet familiar with how to play "Dou Dizhu", please read the game rules:**
 Your objective is to play all of your cards before your opponents do. There are three players in total (you and two computer opponents), and each player is dealt 17 cards, the "Landlord" has 20.
 
-**The "Bidding for Landlord" Phase**
+The "Bidding for Landlord" Phase
+
 Three cards are placed at the top of the screen; these are known as the "Landlord Cards." Before the game begins, the player holding the 3 of Hearts starts the bidding process. Moving clockwise, each player may choose to "Bid" (attempt to become the Landlord) or "Skip" (pass). The first player to successfully bid becomes the Landlord (indicated by a Landlord hat icon) and claims the three Landlord Cards. At this point, the game shifts to a 1-vs-2 format (the Landlord against the two "Peasants").
 
-**Important!!** Card rankings start from 3 and ascend in the following order: 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K, A, SJ (Small Joker), BJ (Big Joker). (Note: The Ace [A] functions as the number 1.)
+Important!! Card rankings start from 3 and ascend in the following order: 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K, A, SJ (Small Joker), BJ (Big Joker). (Note: The Ace [A] functions as the number 1.)
 
-**The Game**
+The Game
+
 The Landlord plays first hand to start the game. The player currently holding the turn may play any valid card combination (all valid card combinations are listed at the bottom). Subsequent players must play in turn, matching the *same card combination type* as the previous player, but using a *higher-ranking* set of cards. Click on the cards you wish to play, then click the "Play" button; if you have no valid cards to play, click "Skip." The game ends when one player has played all their cards; click "Restart" in the center of the screen to begin a new game.
 s
 
 **All Card Combinations:**
+
 Single Card(单张)  — One individual card (e.g., 3)
 
 Pair(对子)  — Two identical cards (e.g., 44)
