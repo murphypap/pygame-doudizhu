@@ -15,13 +15,14 @@ Type "python3 -m pip install pygame", and then type "python3 main.py" to launch 
 
 
 **If you are not yet familiar with how to play "Dou Dizhu", please read the game rules:**
+
+Important!! Card rankings start from 3 and ascend in the following order: 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K, A, SJ (Small Joker), BJ (Big Joker). (Note: The Ace [A] functions as the number 1.)
+
 Your objective is to play all of your cards before your opponents do. There are three players in total (you and two computer opponents), and each player is dealt 17 cards, the "Landlord" has 20.
 
 The "Bidding for Landlord" Phase
 
 Three cards are placed at the top of the screen; these are known as the "Landlord Cards." Before the game begins, the player holding the 3 of Hearts starts the bidding process. Moving clockwise, each player may choose to "Bid" (attempt to become the Landlord) or "Skip" (pass). The first player to successfully bid becomes the Landlord (indicated by a Landlord hat icon) and claims the three Landlord Cards. At this point, the game shifts to a 1-vs-2 format (the Landlord against the two "Peasants").
-
-Important!! Card rankings start from 3 and ascend in the following order: 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K, A, SJ (Small Joker), BJ (Big Joker). (Note: The Ace [A] functions as the number 1.)
 
 The Game
 
