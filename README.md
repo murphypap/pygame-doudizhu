@@ -7,13 +7,13 @@ Here are the specific steps:
 1. Open my GitHub project page, click on "Code" -> "Download ZIP," and then unzip the downloaded file.
 2. Open a terminal window (use PowerShell or CMD on Windows; use Terminal on macOS/Linux).
 3. Type "cd" (followed by a space). Then, either drag the unzipped project folder directly into the terminal window and press Enter, or manually type out the folder's file path (e.g., windows:`cd "D:\xxx\pygame-doudizhu-main"`, macOS/Linux:`~/xxx/pygame-doudizhu-main`).
-4.1 Windows Users:
+4. Windows Users:
 Type "python -m pip install pygame", and then type "python main.py" to launch the game.
-4.2 macOS / Linux Users:
+5. macOS / Linux Users:
 Type "python3 -m pip install pygame", and then type "python3 main.py" to launch the game.
 
 
-If you are not yet familiar with how to play "Dou Dizhu", please read the game rules:
+****If you are not yet familiar with how to play "Dou Dizhu", please read the game rules:****
 Your objective is to play all of your cards before your opponents do. There are three players in total (you and two computer opponents), and each player is dealt 17 cards, the "Landlord" has 20.
 
 **The "Bidding for Landlord" Phase**
