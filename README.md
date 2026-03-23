@@ -8,9 +8,9 @@ Here are the specific steps:
 2. Open a terminal window (use PowerShell or CMD on Windows; use Terminal on macOS/Linux).
 3. Type "cd" (followed by a space). Then, either drag the unzipped project folder directly into the terminal window and press Enter, or manually type out the folder's file path (e.g., windows:`cd "D:\xxx\pygame-doudizhu-main"`, macOS/Linux:`~/xxx/pygame-doudizhu-main`).
 4. Windows Users:
-Type "python -m pip install pygame", and then type "python main.py" to launch the game.
+Type "python -m pip install pygame-ce", and then type "python main.py" to launch the game.
 5. macOS / Linux Users:
-Type "python3 -m pip install pygame", and then type "python3 main.py" to launch the game.
+Type "python3 -m pip install pygame-ce", and then type "python3 main.py" to launch the game.
 
 
 **If you are not yet familiar with how to play "Dou Dizhu", please read the game rules:**
